@@ -12,6 +12,8 @@
     <h2> 🔹 Features:</h2>
     <ul>
       <li>Accessible Navigation</li>
+      <li>Data Organization</li>
+      <li>External and Internal Links</li>
       <li>Semantic HTML5 Architecture</li>
     </ul>
     <h2> 🔹 Screenshots:</h2>
@@ -35,7 +37,9 @@
     </section>
     <section>
       <strong> 🔸 Note:</strong>
-      <p>Built focusing on semantic HTML5 principles, this project utilizes minimal CSS to maintain a clean and powerful architecture.</p>
+      <p>
+        Built focusing on semantic HTML5 principles, this project utilizes <b>minimal CSS</b> to maintain a clean and powerful architecture.
+      </p>
     </section>
   </footer>
 </body>
