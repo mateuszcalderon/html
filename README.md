@@ -29,5 +29,5 @@
 </main>
 <footer>
   <h2> 🔸 Note:</h2>
-  <p></p>
+  <p>Built focusing on semantic HTML5 principles, this project utilizes minimal CSS to maintain a clean and powerful architecture.</p>
 </footer>
