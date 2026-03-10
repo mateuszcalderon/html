@@ -33,7 +33,13 @@
     <h2>Additional Details:</h2>
     <section>
       <strong> 🔹 Acknowledgment:</strong>
-      <p></p>
+      <p>
+        The &quot;HTML Basic Course&quot; was developed using
+        <b>Dave Gray's</b>
+        <a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu">HTML Tutorial for Beginners</a>
+        <b>series</b>.
+        His accessible and intuitive teaching style was foundational in establishing a firm grasp of simple, yet powerful, industry best practices.
+      </p>
     </section>
     <section>
       <strong> 🔸 Note:</strong>
