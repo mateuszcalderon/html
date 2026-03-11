@@ -20,11 +20,11 @@
     <h2> 🔹 Screenshots:</h2>
     <figure>
       <figcaption>Home Page</figcaption>
-      <img src="https://github.com/mateuszcalderon/html/blob/master/Home.jpg?raw=true" alt="Home Page" title="Home page for the HTML Basic Course" width="1366" height="720">
+      <img src="https://github.com/mateuszcalderon/html/blob/master/img/Home.jpg?raw=true" alt="Home Page" width="1366" height="720">
     </figure>
     <figure>
       <figcaption>Contact Page</figcaption>
-      <img src="https://github.com/mateuszcalderon/html/blob/master/Contact.jpg?raw=true" alt="Contact Page" title="Contact page for the HTML Basic Course" width="1366" height="720">
+      <img src="https://github.com/mateuszcalderon/html/blob/master/img/Contact.jpg?raw=true" alt="Contact Page" width="1366" height="720">
     </figure>
   </main>
 
