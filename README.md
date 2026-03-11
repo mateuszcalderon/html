@@ -1,4 +1,5 @@
 <body>
+
   <header>
     <h1>HTML Basic Course Project</h1>
   </header>
@@ -17,15 +18,13 @@
       <li>Semantic HTML5 Architecture</li>
     </ul>
     <h2> 🔹 Screenshots:</h2>
-    <h3>Home page:</h3>
     <figure>
-      <img src="" alt="Home Page" title="Home page for the HTML Basic Course" width="" height="">
       <figcaption>Home Page</figcaption>
+      <img src="https://github.com/mateuszcalderon/html/blob/master/Home.jpg?raw=true" alt="Home Page" title="Home page for the HTML Basic Course" width="1366" height="720">
     </figure>
-    <h3>Contact page:</h3>
     <figure>
-      <img src="" alt="Contact Page" title="Contact page for the HTML Basic Course" width="" height="">
       <figcaption>Contact Page</figcaption>
+      <img src="https://github.com/mateuszcalderon/html/blob/master/Contact.jpg?raw=true" alt="Contact Page" title="Contact page for the HTML Basic Course" width="1366" height="720">
     </figure>
   </main>
 
@@ -48,4 +47,5 @@
       </p>
     </section>
   </footer>
+
 </body>
